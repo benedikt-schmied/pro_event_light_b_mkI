@@ -10,3 +10,6 @@
 [submodule "library/mod_eagle_library_MCU_CPU"]
 	path = library/mod_eagle_library_MCU_CPU
 	url = https://github.com/benedikt-schmied/mod_eagle_library_MCU_CPU.git
+[submodule "library/dummy/pro_budget_management_PYTHON"]
+	path = library/dummy/pro_budget_management_PYTHON
+	url = https://github.com/benedikt-schmied/pro_budget_management_PYTHON
